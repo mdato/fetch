@@ -1,0 +1,9 @@
+package.json antes de hacer BUILD
+------------
+  "homepage": ".",
+
+en DIST
+-------
+poner un punto delante de la barra en todos los link en el index.html
+<script type="module" crossorigin src="./assets/index.46fa20d9.js"></script>
+    <link rel="modulepreload" href="./assets/vendor.cd7509fb.js">

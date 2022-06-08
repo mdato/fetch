@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+.App {
+    text-align: center;
+}
+
+.rdt_TableCol {
+    background-color: #212121;
+    color: aliceblue;
+}
+
+.rdt_TableCell {
+    background-color: #f8f8f8;
+    color: rgb(37, 87, 145);
+}
